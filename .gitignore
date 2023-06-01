@@ -26,3 +26,6 @@ build/
 build_xcode/
 skia/win32/
 skia/win64/
+*.sln
+*.vcxproj
+*.vcxproj.filters
